@@ -31,7 +31,7 @@ Create the composer.json file as follows:
 ```json
 {
     "require": {
-        "phalcon/devtools": "dev-master"
+        "x51xxx/devtools": "dev-master"
     }
 }
 ```
